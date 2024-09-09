@@ -21,7 +21,7 @@ const Home = () => {
         <Grid />
         <RecentProjects />
         <Clients />
-        <Experience />
+        {/* <Experience /> */}
         <AdminTeam/>
 
         <Approach />
