@@ -106,35 +106,35 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Epic Softwares transformed our outdated platform into a modern, user-friendly interface. Their attention to detail and dedication to understanding our needs resulted in a product that exceeded our expectations.",
+      "DevBlend transformed our outdated platform into a modern, user-friendly interface. Their attention to detail and dedication to understanding our needs resulted in a product that exceeded our expectations.",
     name: "Nabin Shah",
     title: "Product Manager at InnovateTech",
     image: "/testi/testi1.jpeg"
   },
   {
     quote:
-      "Working with Epic Softwares was seamless from start to finish. Their team provided innovative solutions and delivered on time, helping us launch a critical project ahead of schedule.",
+      "Working with DevBlend was seamless from start to finish. Their team provided innovative solutions and delivered on time, helping us launch a critical project ahead of schedule.",
     name: "Hamal Adhikari",
     title: "Principal at Bright future college",
     image: "/testi/testi2.jpeg",
   },
   {
     quote:
-      "The team at Epic Softwares brought our vision to life with their expertise in web development. They were highly responsive, and their technical skills were top-notch. We couldn’t have asked for a better partner.",
+      "The team at DevBlend brought our vision to life with their expertise in web development. They were highly responsive, and their technical skills were top-notch. We couldn’t have asked for a better partner.",
     name: "Hari Dhakal",
     title: "CEO at Hamro Groups",
     image: "/testi/testi3.jpeg",
   },
   {
     quote:
-      "Epic Softwares played a crucial role in scaling our mobile app. Their approach to problem-solving and commitment to delivering high-quality code made them an invaluable asset to our project.",
+      "DevBlend played a crucial role in scaling our mobile app. Their approach to problem-solving and commitment to delivering high-quality code made them an invaluable asset to our project.",
     name: "Aman sharma",
     title: "Lead Developer at Streamline Apps",
     image: "/testi/testi4.jpeg",
   },
   {
     quote:
-      "We collaborated with Epic Softwares on a complex SaaS platform, and they delivered exceptional results. Their professionalism and expertise were evident throughout the project, and we look forward to working with them again.",
+      "We collaborated with DevBlend on a complex SaaS platform, and they delivered exceptional results. Their professionalism and expertise were evident throughout the project, and we look forward to working with them again.",
     name: "Nabin Chaulagain",
     title: "COO at CloudWave Technologies",
     image: "/testi/testi5.jpeg",

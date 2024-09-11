@@ -7,7 +7,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Epic Softwares",
+  title: "Dev Blend",
   description: "Modern Software Company",
 };
 
