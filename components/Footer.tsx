@@ -24,7 +24,7 @@ const Footer = () => {
         <p className="text-gray-300 md:mt-8 my-5 text-center max-w-2xl">
           Whether it&apos;s a web app, mobile solution, or a custom platform, let’s discuss how we can bring your ideas to life.
         </p>
-        <a href="mailto:samirk.majhi369@gmail.com">
+        <a href="mailto:contact@devblend.tech">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
@@ -34,7 +34,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Epic Sofwares
+          Copyright © 2024 DevBlend
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

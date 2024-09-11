@@ -42,7 +42,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Welcome to Epic Softwares – Your Partner in Digital Transformation.
+            Welcome to DevBlend – Your Partner in Digital Transformation.
           </p>
 
           <a href="#services">
